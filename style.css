@@ -1,0 +1,96 @@
+
+
+h1 {
+    font-family: helvetica;
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+    color: Khaki;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*gs9h3x*_ga*MTU0NjU1MzM0Ni4xNjc4NDcwNjQy*_ga_3LRZM6TM9L*MTY3ODQ5MDYyMy4zLjEuMTY3ODQ5MDY2OC4xNS4wLjA.");
+   background-size: cover;
+}
+
+
+.brushes__title{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.brushes__para {
+    margin: 16px 0;
+    font-family: helvetica;
+    height: 32px;
+
+   
+}
+
+.frames__title {
+    margin: 25.56px 0;
+    font-family: helvetica;
+    font-size: 32px;
+    background-color: lightcoral;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+
+
+}
+
+.paint__title {
+    font-family: helvetica;
+    background-color: skyblue;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    margin: 26.56px 0;
+    font-weight: 700;
+
+}
+
+.color__blue {
+    color: blue;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+.hacksaw__title {
+    margin: 18.72px 0;
+    font-family: helvetica;
+    font-size: 18.72px;
+    font-weight: 700;
+}
+
+.frames__title--assorted {
+    font-family: helvetica;
+    margin: 18.72px 0;
+    font-size: 18.72px;
+    font-weight: 700;
+    height: 21px;
+
+}
+
+.frames__para {
+    margin: 16px 0;
+    font-family: helvetica;
+    height: 32px;
+    color: #000;
+
+}
+
+.finnish__paint--title {
+    font-family: helvetica;
+    margin: 18.72px 0;
+    font-weight: 700;
+    font-size: 18.72px;
+
+}
+
+.paint__para {
+    font-family: helvetica;
+    height: 54px;
+    margin: 16px 0;
+    color: #000;
+    
+
+}
